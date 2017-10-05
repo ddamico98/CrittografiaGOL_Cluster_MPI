@@ -1,0 +1,1 @@
+# CrittografiaGOL_Cluster_MPI
